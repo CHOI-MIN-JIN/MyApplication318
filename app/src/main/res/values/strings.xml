@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">[Your name]\'s Application</string>
-    <string name="hello">Hello [Your id and name]?(variable)</string>
+    <string name="hello">Hello [Your id and name]!(variable)</string>
+    <string name="helloo">Hello [Your id and name]?(variable)</string>
 </resources>
